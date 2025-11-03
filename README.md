@@ -32,7 +32,7 @@
 ## 🧩 Projetos Recentes
 🔹 [Repositório de TCCs e Projetos Integradores (React + Flask)](https://conect-projetos-ete.vercel.app/)  
 🔹 [Landing Page - Curso de Back-End SENAI PE](https://tacila-souza.github.io/LandingPage-CursoBackEnd-SENAI-PE/)  
-🔹 [Casa Igarassu - Web Site Para Divulgação de Hospedagem, Passeios e Guia de Turistico](https://tacila-souza.github.io/casa-igarassu/)
+🔹 [Casa Igarassu - Web Site Para Divulgação de Hospedagem, Passeios e Guia de Turistico](https://tacila-souza.github.io/casa-igarassu/)                                                   
 🔹 [Sistema Para Sorteio de Amigo Secreto](https://tacila-souza.github.io/Challenge-Amigo-Secreto/)     
 
 ---
