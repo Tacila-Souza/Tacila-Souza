@@ -29,23 +29,11 @@
 
 ---
 
-## 🌱 Atualmente aprendendo
-- Programação Orientada a Objetos (POO)
-- Flask e APIs REST
-- Boas práticas de versionamento com Git e GitHub
-
----
-
 ## 🧩 Projetos Recentes
 🔹 [Repositório de TCCs e Projetos Integradores (React + Flask)](https://conect-projetos-ete.vercel.app/)  
-🔹 [Landing Page - Curso de Back-End SENAI PE](https://tacila-souza.github.io/projeto-bootstrp/)  
+🔹 [Landing Page - Curso de Back-End SENAI PE](https://tacila-souza.github.io/LandingPage-CursoBackEnd-SENAI-PE/)  
 🔹 [Sistema Para Sorteio de Amigo Secreto](https://tacila-souza.github.io/Challenge-Amigo-Secreto/)
-
----
-
-## 📊 Estatísticas do GitHub
-![Tacila's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+🔹 [Casa Igarassu - Web Site Para Divulgação de Hospedagem, Passeios e Guia de Turistico](https://tacila-souza.github.io/casa-igarassu/)
 
 ---
 
