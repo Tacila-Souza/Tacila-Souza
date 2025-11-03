@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Olá, eu sou a Tacila Souza!
 
 💡 Desenvolvedora em formação | Apaixonada por tecnologia e aprendizado constante  
