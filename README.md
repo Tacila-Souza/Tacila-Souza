@@ -32,10 +32,10 @@
 ---
 
 ## 🧩 Projetos Recentes
-🔹 [FoodFlow - Aplicação Full Stack para gerenciamento de delivery](https://github.com/GenStudents/projeto-3)  
-🔹 [RH Connect - Web site para gerenciamente RH](https://github.com/GenStudents/sistema_RH_Front_end) 
-🔹 [Landing Page - Curso Back end SENAI PE](https://tacila-souza.github.io/LandingPage-CursoBackEnd-SENAI-PE/) 
-🔹 [Connect ETE PE - Repositório de TCCs e Projetos Integradores](https://conect-projetos-ete.vercel.app/)                                     
+🔹 [FoodFlow - Aplicação Full Stack para gerenciamento de delivery](https://github.com/GenStudents/projeto-3)                     
+🔹 [RH Connect - Web site para gerenciamente RH](https://github.com/GenStudents/sistema_RH_Front_end)                              
+🔹 [Landing Page - Curso Back end SENAI PE](https://tacila-souza.github.io/LandingPage-CursoBackEnd-SENAI-PE/)                            
+🔹 [Connect ETE PE - Repositório de TCCs e Projetos Integradores](https://conect-projetos-ete.vercel.app/)                                                                     
    
 
 ---
